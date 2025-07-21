@@ -3,7 +3,7 @@
 
 Each listing provides structured information, filtering options, and explanatory context that transforms raw datasets into actionable insights. Whether you're browsing for educational purposes or to make informed decisions, you'll find well-organized content designed to answer real-world questions efficiently.
 
-# Topics
+## Topics
 ### [FDA-Approved Drugs](https://www.foodinsider.org/fda-approved-drugs)
 [www.foodinsider.org/fda-approved-drugs](https://www.foodinsider.org/fda-approved-drugs) is your dedicated resource for exploring **FDA-Approved Drugs** in depth. This platform is part of The Data Project's mission to make public and professional data more accessible, usable, and transparent for everyone—from researchers and developers to journalists and everyday users.
 
